@@ -12,5 +12,4 @@
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=Flask)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=for-the-badge&logo=Pycharm)
 
-Follow Me: ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=Telegram)
-![VKontacte](https://img.shields.io/badge/-VK-333333?style=for-the-badge&logo=VK)
+Contact Me: [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=Telegram)](https://t.me/george_petrov)
