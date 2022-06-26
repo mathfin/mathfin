@@ -1,5 +1,3 @@
-![Header](https://github.com/mathfin/mathfin/blob/main/assets/header.png) 
-
 ## I'm beginner ML engineer and financial mathematician
 
 ### Languages and Libraries
