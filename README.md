@@ -2,7 +2,7 @@
 
 ### Languages and Libraries
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=postgresql)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=for-the-badge&logo=Pytorch)
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=for-the-badge&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=Pandas)
