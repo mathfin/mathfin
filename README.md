@@ -1,4 +1,4 @@
-## I'm beginner ML engineer and financial mathematician
+## I'm ML engineer and financial mathematician
 
 ### Languages and Libraries
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
